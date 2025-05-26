@@ -4,7 +4,8 @@ Análisis interactivo de ventas por tienda, método de pago y producto. Este das
 
 ---
 
-![Vista del Dashboard](dashboard-ventas.png)
+![Vista del Dashboard](tablero-ventas.jpg)
+
 
 
 ---
